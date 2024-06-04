@@ -122,6 +122,7 @@ body {
     font-weight: 500;
     font-style: normal;
     color: white;
+    cursor: pointer;
 }
 .list-team-space {
     height: 5px;
@@ -130,4 +131,16 @@ body {
 .list-team-image {
     width: 25px;
     vertical-align: -8px;
+}
+
+/* teams */
+.teams-stats-rate {
+    margin-left: 75px;
+    margin-top: 20px;
+    font-size: 23px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
 }
