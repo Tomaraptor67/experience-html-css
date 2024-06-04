@@ -39,6 +39,7 @@ body {
 .header-button:hover {
     background-color: rgb(100, 100, 100);
     color: white;
+    cursor: pointer;
 }
 
 .header-button-space {
@@ -106,4 +107,27 @@ body {
     background-image: linear-gradient(to right, black, rgba(0, 0, 0, 0));
     display: inline-block;
     position: absolute;
+}
+
+/* list-team */
+.team-list {
+    margin-top: 10px;
+}
+
+.list-team {
+    margin-left: 75px;
+    font-size: 23px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+}
+.list-team-space {
+    height: 5px;
+}
+
+.list-team-image {
+    width: 25px;
+    vertical-align: -8px;
 }
